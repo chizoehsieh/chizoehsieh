@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chizoehsieh
+- 👋 Hi, I’m Z
 - 👀 I’m interested in reading, music, and coding
 <!-- - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ... -->
