@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Z
+- 👋 Hi, I’m Zoe Hsieh
 - 👀 I’m interested in reading, music, and coding
 <!-- - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ... -->
